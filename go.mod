@@ -1,4 +1,4 @@
-module github.com/wintergathering/daren2
+module github.com/snuts1/daren2test
 
 go 1.24.0
 
